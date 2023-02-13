@@ -19,5 +19,5 @@ If you see a mistake or a way to make the code better, feel free to create an is
 
 ## Contact
 If you have any questions or want to get in touch, 
-you can reach me at my email: "bunybavros@gmail.com". 
+you can reach me at my email: "bunnybavros@gmail.com". 
 Thanks for checking out my code!
