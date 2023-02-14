@@ -6,7 +6,7 @@ while True:
     except ValueError:
         print("ERROR 01: Please only enter the number.\n\n")
         continue
-    else: #Ask user for the second number
+    else:
         try: #Ask user for the second number.
             SecondNumber = float(input("\nPlease enter your second number: "))
         except ValueError:
